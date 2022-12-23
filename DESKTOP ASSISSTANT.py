@@ -13,7 +13,6 @@ import random
 import requests
 from bs4 import BeautifulSoup
 import subprocess
-import tkinter
 from pprint import pprint
 
 
